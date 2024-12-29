@@ -26,7 +26,7 @@
 - **Technologies**: React Native, Firebase, FastAPI, AWS Lambda, ElasticSearch, Docker.
 - **Previews**:
   <p align="center">
-    <img src="path/to/ridesharing-app-image1.jpg" width="300" alt="Ride Sharing App 1">
+    <img src="/lahagni1.png" width="300" alt="Ride Sharing App 1">
     <img src="path/to/ridesharing-app-image2.jpg" width="300" alt="Ride Sharing App 2">
     <img src="path/to/ridesharing-app-image3.jpg" width="300" alt="Ride Sharing App 3">
   </p>
