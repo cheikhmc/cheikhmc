@@ -27,8 +27,11 @@
 - **Previews**:
   <p align="center">
     <img src="/lahagni1.png" width="300" alt="Ride Sharing App 1">
-    <img src="path/to/ridesharing-app-image2.jpg" width="300" alt="Ride Sharing App 2">
-    <img src="path/to/ridesharing-app-image3.jpg" width="300" alt="Ride Sharing App 3">
+    <img src="/lahagni2.png" width="300" alt="Ride Sharing App 2">
+    <img src="/lahagni3.png" width="300" alt="Ride Sharing App 3">
+    <img src="/lahagni4.png" width="300" alt="Ride Sharing App 4">
+    <img src="/lahagni5.png" width="300" alt="Ride Sharing App 5">
+    <img src="/lahagni6.png" width="300" alt="Ride Sharing App 6">
   </p>
 
 #### 2. **Futsal Booking App**
