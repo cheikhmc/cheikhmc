@@ -49,9 +49,15 @@
 - **Technologies**: Kotlin, iOS (Swift), React Native, SQL, Nginx.
 - **Previews**:
   <p align="center">
-    <img src="path/to/flats-hotels-app-image1.jpg" width="300" alt="Flats App 1">
-    <img src="path/to/flats-hotels-app-image2.jpg" width="300" alt="Flats App 2">
-    <img src="path/to/flats-hotels-app-image3.jpg" width="300" alt="Flats App 3">
+    <img src="/flat1.png" width="300" alt="Flats App 1">
+    <img src="/flat2.png" width="300" alt="Flats App 2">
+    <img src="/flat3.png" width="300" alt="Flats App 3">
+    <img src="/flat4.png" width="300" alt="Flats App 4">
+    <img src="/flat5.png" width="300" alt="Flats App 5">
+    <img src="/flat6.png" width="300" alt="Flats App 6">
+    <img src="/flat7.png" width="300" alt="Flats App 7">
+    <img src="/flat8.png" width="300" alt="Flats App 8">
+    <img src="/flat9.png" width="300" alt="Flats App 9">
   </p>
 
 ---
