@@ -93,13 +93,19 @@
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=cheikhmc&theme=radical" alt="Cheikh's GitHub Contribution Graph" />
   </a>
 </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cheikhmc)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheikhmc&theme=default) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheikhmc&theme=default)
+
 [![cheikhmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheikhmc)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheikhmc&theme=default&utcOffset=8)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🛠️ Skills and Expertise
