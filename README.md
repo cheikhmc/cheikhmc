@@ -84,27 +84,20 @@
   </a>
 </p>
 
-### Stats for the Past 3 Years
-<p align="center">
-  <a href="https://github.com/cheikhmc">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cheikhmc&theme=radical" alt="Cheikh's GitHub Streak Stats" />
-  </a>
-  <a href="https://github.com/cheikhmc">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=cheikhmc&theme=radical" alt="Cheikh's GitHub Contribution Graph" />
-  </a>
-</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cheikhmc)](https://git.io/streak-stats)
+### Stats for the Past Years
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheikhmc&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cheikhmc&theme=hacker-inverted)](https://git.io/streak-stats)
 
-[![cheikhmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheikhmc)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheikhmc&theme=omni)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheikhmc&theme=default&utcOffset=8)
+[![cheikhmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheikhmc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheikhmc&theme=omni&utcOffset=8)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
