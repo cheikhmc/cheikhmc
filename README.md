@@ -95,7 +95,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheikhmc&theme=omni&utcOffset=8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
