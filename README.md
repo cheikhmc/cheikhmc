@@ -60,6 +60,19 @@
     <img src="/flat9.png" width="300" alt="Flats App 9">
   </p>
 
+  
+#### 3. **Flats and Hotels Admin App**
+- **Description**: A user-friendly app for managing ads on the Flats and Hotels Booking App.
+- **Technologies**: Streamlit, Firebase, Docker.
+- **Previews**:
+  <p align="center">
+    <img src="/admin1.png" width="300" alt="Admin App 1">
+    <img src="/admin2.png" width="300" alt="Admin App 2">
+    <img src="/admin3.png" width="300" alt="Admin App 3">
+    <img src="/admin4.png" width="300" alt="Admin App 4">
+    <img src="/admin5.png" width="300" alt="Flats App 5">
+  </p>
+
 ---
 
 ## 📈 Github Stats
