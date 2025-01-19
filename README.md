@@ -80,7 +80,7 @@
 ### Overall Stats
 <p align="center">
   <a href="https://github.com/cheikhmc">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cheikhmc&show_icons=true&theme=radical" alt="Cheikh's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&show_icons=true&theme=radical" alt="Cheikh's GitHub Stats" />
   </a>
 </p>
 
@@ -89,15 +89,15 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cheikhmc&theme=hacker-inverted)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheikhmc&theme=omni)
+![](https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/0-profile-details.svg)
 
-[![cheikhmc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheikhmc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![cheikhmc's GitHub stats](https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&theme=radical)]([https://github.com/cheikhmc/read-me-stat](https://github.com/anuraghazra/github-readme-stats))
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheikhmc&theme=omni&utcOffset=8)
+![](https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/4-productive-time.svg))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&langs_count=18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
