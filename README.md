@@ -1,14 +1,7 @@
-<!-- ///////// NAME AND BADGES ///////// -->
-<p align="center">
-  <h1 align="center"><b>Hi, I'm Cheikh Mohamed Vadhel 👋</b></h1>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/cheikh-mohamed-vadhel/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-    <a href="https://github.com/cheikhmc"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-    <a href="mailto:medlimame99@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  </p>
-</p>
+# Hi, I'm Cheikh Mohamed Vadhel 👋
 
-<!-- ///////// ANIMATED BIO TEXT ///////// -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheikh-mohamed-vadhel/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheikhmc) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:medlimame99@gmail.com)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+and+Tech+Enthusiast;Generalist+with+Expertise+in+AI,+Cloud,+and+Mobile+Apps;Passionate+About+Innovation+and+Learning" />
@@ -25,6 +18,7 @@
 - **Description**: A seamless ride-sharing platform connecting users with drivers.
 - **Technologies**: React Native, Firebase, FastAPI, AWS Lambda, ElasticSearch, Docker.
 - **Previews**:
+
   <p align="center">
     <img src="/lahagni1.png" width="300" alt="Ride Sharing App 1">
     <img src="/lahagni2.png" width="300" alt="Ride Sharing App 2">
@@ -38,6 +32,7 @@
 - **Description**: A streamlined app for booking futsal courts and managing schedules.
 - **Technologies**: Flutter, Firebase, Python, AWS App Runner, Gunicorn.
 - **Previews**:
+
   <p align="center">
     <img src="path/to/futsal-app-image1.jpg" width="300" alt="Futsal App 1">
     <img src="path/to/futsal-app-image2.jpg" width="300" alt="Futsal App 2">
@@ -48,6 +43,7 @@
 - **Description**: A user-friendly app for finding and booking accommodations.
 - **Technologies**: Kotlin, iOS (Swift), React Native, SQL, Nginx.
 - **Previews**:
+
   <p align="center">
     <img src="/flat1.png" width="300" alt="Flats App 1">
     <img src="/flat2.png" width="300" alt="Flats App 2">
@@ -60,51 +56,62 @@
     <img src="/flat9.png" width="300" alt="Flats App 9">
   </p>
 
-  
-#### 3. **Flats and Hotels Admin App**
+#### 4. **Flats and Hotels Admin App**
 - **Description**: A user-friendly app for managing ads on the Flats and Hotels Booking App.
 - **Technologies**: Streamlit, Firebase, Docker.
 - **Previews**:
+
   <p align="center">
     <img src="/admin1.png" width="300" alt="Admin App 1">
     <img src="/admin2.png" width="300" alt="Admin App 2">
     <img src="/admin3.png" width="300" alt="Admin App 3">
     <img src="/admin4.png" width="300" alt="Admin App 4">
-    <img src="/admin5.png" width="300" alt="Flats App 5">
+    <img src="/admin5.png" width="300" alt="Admin App 5">
   </p>
 
 ---
 
-## 📈 Github Stats
+## 📈 GitHub Stats
 
 ### Overall Stats
+
 <p align="center">
   <a href="https://github.com/cheikhmc">
-    <img align="center" src="https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&show_icons=true&theme=radical" alt="Cheikh's GitHub Stats" />
+    <img src="https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&show_icons=true&theme=radical" alt="Cheikh's GitHub Stats" />
   </a>
 </p>
 
+### Streak and Summary
 
-### Stats for the Past Years
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=cheikhmc&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cheikhmc)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/0-profile-details.svg" alt="Profile Details" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/4-productive-time.svg" alt="Productive Time" />
+</p>
 
-![](https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/0-profile-details.svg)
+### Top Languages
 
-[![cheikhmc's GitHub stats](https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&theme=radical)]
+<p align="center">
+  <img src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&langs_count=18&theme=radical" alt="Top Languages" />
+</p>
 
-![](https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/4-productive-time.svg)
-
-[![Top Langs](https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&langs_count=18&theme=radical)]
-
-[![Top Languages](https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie)]
+<p align="center">
+  <img src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie" alt="Top Languages Pie Chart" />
+</p>
 
 ---
 
 ## 🛠️ Skills and Expertise
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -126,6 +133,9 @@ When I'm not coding, you'll find me exploring new technologies, mentoring aspiri
 ---
 
 ## 🔗 Let's Connect
+
 - [LinkedIn](https://www.linkedin.com/in/cheikh-mohamed-vadhel/)
 - [GitHub](https://github.com/cheikhmc)
 - [Email](mailto:medlimame99@gmail.com)
+
+---
