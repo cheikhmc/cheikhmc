@@ -34,9 +34,9 @@
 - **Previews**:
 
   <p align="center">
-    <img src="path/to/futsal-app-image1.jpg" width="300" alt="Futsal App 1">
-    <img src="path/to/futsal-app-image2.jpg" width="300" alt="Futsal App 2">
-    <img src="path/to/futsal-app-image3.jpg" width="300" alt="Futsal App 3">
+    <img src="/futsal1.jpeg" width="300" alt="Futsal App 1">
+    <img src="/futsal2.jpeg" width="300" alt="Futsal App 2">
+    <img src="/futsal3.jpeg" width="300" alt="Futsal App 3">
   </p>
 
 #### 3. **Flats and Hotels Booking App**
