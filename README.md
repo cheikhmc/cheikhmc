@@ -6,9 +6,24 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+and+Tech+Enthusiast;Generalist+with+Expertise+in+AI,+Cloud,+and+Mobile+Apps;Passionate+About+Innovation+and+Learning" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+and+Tech+Enthusiast;Generalist+with+Expertise+in+AI,+Cloud,+and+Mobile+Apps;Passionate+About+Innovation+and+Learning" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+## 📖 Table of Contents
+- [🚀 My Projects](#-my-projects)
+  - [📱 Mobile Applications](#-mobile-applications)
+    - [1. Ride Sharing App](#1-ride-sharing-app)
+    - [2. Futsal Booking App](#2-futsal-booking-app)
+    - [3. Flats and Hotels Booking App](#3-flats-and-hotels-booking-app)
+    - [4. Apparty Web App](#4-apparty-web-app)
+    - [5. Admin Management App](#5-admin-management-app)
+- [📈 GitHub Stats](#-github-stats)
+- [🛠️ Skills and Expertise](#️-skills-and-expertise)
+- [🌟 About Me](#-about-me)
+- [🔗 Let's Connect](#-lets-connect)
 
 ---
 
@@ -18,7 +33,7 @@
 
 #### 1. **Ride Sharing App**
 - **Description**: A seamless ride-sharing platform connecting users with drivers.
-- **Technologies**: React Native, Firebase, FastAPI, AWS Lambda, ElasticSearch, Docker.
+- **Technologies**: ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - **Previews**:
 
 <table>
@@ -34,10 +49,10 @@
 
 #### 2. **Futsal Booking App**
 - **Description**: A streamlined app for booking futsal courts and managing schedules.
-- **Technologies**: Flutter, Firebase, Python, AWS App Runner, Gunicorn.
+- **Technologies**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS App Runner](https://img.shields.io/badge/AWS%20App%20Runner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-424D5C?style=for-the-badge&logo=gunicorn&logoColor=white)
 - **Previews**:
 
-<table>
+  <table>
   <tr>
     <td><img src="/futsal1.jpeg" alt="Futsal App 1" width="200" style="border-radius: 10px;"/></td>
     <td><img src="/futsal2.jpeg" alt="Futsal App 2" width="200" style="border-radius: 10px;"/></td>
@@ -47,10 +62,10 @@
 
 #### 3. **Flats and Hotels Booking App**
 - **Description**: A user-friendly app for finding and booking accommodations.
-- **Technologies**: Kotlin, iOS (Swift), React Native, SQL, Nginx.
+- **Technologies**: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 - **Previews**:
 
-<table>
+  <table>
   <tr>
     <td><img src="/flat1.png" alt="Flats App 1" width="200" style="border-radius: 10px;"/></td>
     <td><img src="/flat2.png" alt="Flats App 2" width="200" style="border-radius: 10px;"/></td>
@@ -68,35 +83,22 @@
 
 #### 4. **Apparty Web App**
 - **Description**: A website to describe and market the Apparty for the Flats and Hotels Booking App.
-- **Technologies**: Streamlit, Firebase, Docker.
+- **Technologies**: ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - **Website**: [www.apparty.net](https://www.apparty.net)
 - **Previews**:
 
-<table>
-  <tr>
-    <td><img src="/apparty1.png" alt="Apparty Web 1" width="300" style="border-radius: 10px;"/></td>
-    <td><img src="/apparty2.png" alt="Apparty Web 2" width="300" style="border-radius: 10px;"/></td>
-  </tr>
-  <tr>
-    <td><img src="/apparty3.png" alt="Apparty Web 3" width="300" style="border-radius: 10px;"/></td>
-    <td><img src="/apparty4.png" alt="Apparty Web 4" width="300" style="border-radius: 10px;"/></td>
-  </tr>
-</table>
+  | ![Apparty Web 1](/apparty1.png) | ![Apparty Web 2](/apparty2.png) |
+  |:-------------------------------:|:-------------------------------:|
+  | ![Apparty Web 3](/apparty3.png) | ![Apparty Web 4](/apparty4.png) |
 
 #### 5. **Admin Management App**
 - **Description**: A user-friendly app for managing ads on the Flats and Hotels Booking App.
-- **Technologies**: Streamlit, Firebase, Docker.
+- **Technologies**: ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - **Previews**:
 
-<table>
-  <tr>
-    <td><img src="/admin1.png" alt="Admin App 1" width="600" style="border-radius: 30px;"/></td>
-    <td><img src="/admin2.png" alt="Admin App 2" width="600" style="border-radius: 30px;"/></td>
-    <td><img src="/admin3.png" alt="Admin App 3" width="600" style="border-radius: 30px;"/></td>
-    <td><img src="/admin4.png" alt="Admin App 4" width="600" style="border-radius: 30px;"/></td>
-    <td><img src="/admin5.png" alt="Admin App 5" width="600" style="border-radius: 30px;"/></td>
-  </tr>
-</table>
+  | ![Admin App 1](/admin1.png) | ![Admin App 2](/admin2.png) | ![Admin App 3](/admin3.png) |
+  |:-----------------------------:|:-----------------------------:|:-----------------------------:|
+  | ![Admin App 4](/admin4.png) | ![Admin App 5](/admin5.png) |                                 |
 
 ---
 
@@ -104,22 +106,13 @@
 
 ### Overall Stats & Profile Details
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&show_icons=true&theme=radical" alt="Cheikh's GitHub Stats" width="500"/></td>
-    <td><img src="https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/0-profile-details.svg" alt="Profile Details" width="500"/></td>
-  </tr>
-</table>
+| ![Cheikh's GitHub Stats](https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&show_icons=true&theme=radical) | ![Profile Details](https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/0-profile-details.svg) |
+|:-------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
-### Productive Time, Top Languages & Top Languages Pie Chart
+### Productive Time, Top Languages & Languages Pie Chart
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/4-productive-time.svg" alt="Productive Time" width="250"/></td>
-    <td><img src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&langs_count=18&theme=radical" alt="Top Languages" width="250"/></td>
-    <td><img src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie" alt="Top Languages Pie Chart" width="250"/></td>
-  </tr>
-</table>
+| ![Productive Time](https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/4-productive-time.svg) | ![Top Languages](https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&langs_count=18&theme=radical) | ![Top Languages Pie Chart](https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie) |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
 
 ---
 
@@ -133,23 +126,50 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0071C5?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0071C5?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch"/>
+  <img src="https://img.shields.io/badge/Gunicorn-424D5C?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a versatile **Generalist Engineer** with a background in **Mathematics and Engineering** from top institutions like CentraleSupélec and Sorbonne University. My passion lies in leveraging technology to create impactful solutions across domains such as **AI**, **Cloud Computing**, **Mobile Development**, and **Quantum Computing**.
+I'm a versatile **Generalist Engineer** with a strong foundation in **Mathematics and Engineering** from prestigious institutions like [CentraleSupélec](https://www.centralesupelec.fr/) and [Sorbonne University](https://www.sorbonne-universite.fr/). My passion lies in leveraging technology to create impactful solutions across various domains, including:
 
-When I'm not coding, you'll find me exploring new technologies, mentoring aspiring engineers, or engaging in chess and football.
+- **Artificial Intelligence (AI)**
+- **Cloud Computing**
+- **Mobile Development**
+- **Quantum Computing**
+
+When I'm not coding, you'll find me:
+
+- Exploring the latest technologies
+- Mentoring aspiring engineers
+- Engaging in chess and football
+- Continuously learning and innovating
 
 ---
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/cheikh-mohamed-vadhel/)
-- [GitHub](https://github.com/cheikhmc)
-- [Email](mailto:medlimame99@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/cheikh-mohamed-vadhel/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/cheikhmc">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:medlimame99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
+
+<!-- Optional: Add a footer or additional sections as needed -->
