@@ -57,16 +57,16 @@
     <td><img src="/flat3.png" alt="Flats App 3" width="200" style="border-radius: 10px;"/></td>
     <td><img src="/flat4.png" alt="Flats App 4" width="200" style="border-radius: 10px;"/></td>
     <td><img src="/flat5.png" alt="Flats App 5" width="200" style="border-radius: 10px;"/></td>
-    <td><img src="/flat6.png" alt="Flats App 6" width="200" style="border-radius: 10px;"/></td>
   </tr>
   <tr>
+    <td><img src="/flat6.png" alt="Flats App 6" width="200" style="border-radius: 10px;"/></td>
     <td><img src="/flat7.png" alt="Flats App 7" width="200" style="border-radius: 10px;"/></td>
     <td><img src="/flat8.png" alt="Flats App 8" width="200" style="border-radius: 10px;"/></td>
     <td><img src="/flat9.png" alt="Flats App 9" width="200" style="border-radius: 10px;"/></td>
   </tr>
 </table>
 
-#### 4. **Apparty Admin App**
+#### 4. **Apparty Web App**
 - **Description**: A website to describe and market the Apparty for the Flats and Hotels Booking App.
 - **Technologies**: Streamlit, Firebase, Docker.
 - **Website**: [www.apparty.net](https://www.apparty.net)
@@ -74,10 +74,12 @@
 
 <table>
   <tr>
-    <td><img src="/apparty1.png" alt="Apparty Web 1" width="600" style="border-radius: 30px;"/></td>
-    <td><img src="/apparty2.png" alt="Apparty Web 2" width="600" style="border-radius: 30px;"/></td>
-    <td><img src="/apparty3.png" alt="Apparty Web 3" width="600" style="border-radius: 30px;"/></td>
-    <td><img src="/apparty4.png" alt="Apparty Web 4" width="600" style="border-radius: 30px;"/></td>
+    <td><img src="/apparty1.png" alt="Apparty Web 1" width="300" style="border-radius: 10px;"/></td>
+    <td><img src="/apparty2.png" alt="Apparty Web 2" width="300" style="border-radius: 10px;"/></td>
+  </tr>
+  <tr>
+    <td><img src="/apparty3.png" alt="Apparty Web 3" width="300" style="border-radius: 10px;"/></td>
+    <td><img src="/apparty4.png" alt="Apparty Web 4" width="300" style="border-radius: 10px;"/></td>
   </tr>
 </table>
 
