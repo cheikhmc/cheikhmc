@@ -1,6 +1,8 @@
-# Hi, I'm Cheikh Mohamed Vadhel 👋
+# 👋 Hi, I'm Cheikh Mohamed Vadhel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheikh-mohamed-vadhel/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheikhmc) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:medlimame99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheikh-mohamed-vadhel/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheikhmc) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:medlimame99@gmail.com)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -19,93 +21,103 @@
 - **Technologies**: React Native, Firebase, FastAPI, AWS Lambda, ElasticSearch, Docker.
 - **Previews**:
 
-  <p align="center">
-    <img src="/lahagni1.png" width="300" alt="Ride Sharing App 1">
-    <img src="/lahagni2.png" width="300" alt="Ride Sharing App 2">
-    <img src="/lahagni3.png" width="300" alt="Ride Sharing App 3">
-    <img src="/lahagni4.png" width="300" alt="Ride Sharing App 4">
-    <img src="/lahagni5.png" width="300" alt="Ride Sharing App 5">
-    <img src="/lahagni6.png" width="300" alt="Ride Sharing App 6">
-  </p>
+<table>
+  <tr>
+    <td><img src="/lahagni1.png" alt="Ride Sharing App 1" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/lahagni2.png" alt="Ride Sharing App 2" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/lahagni3.png" alt="Ride Sharing App 3" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/lahagni4.png" alt="Ride Sharing App 4" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/lahagni5.png" alt="Ride Sharing App 5" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/lahagni6.png" alt="Ride Sharing App 6" width="200" style="border-radius: 10px;"/></td>
+  </tr>
+</table>
 
 #### 2. **Futsal Booking App**
 - **Description**: A streamlined app for booking futsal courts and managing schedules.
 - **Technologies**: Flutter, Firebase, Python, AWS App Runner, Gunicorn.
 - **Previews**:
 
-  <p align="center">
-    <img src="/futsal1.jpeg" width="300" alt="Futsal App 1">
-    <img src="/futsal2.jpeg" width="300" alt="Futsal App 2">
-    <img src="/futsal3.jpeg" width="300" alt="Futsal App 3">
-  </p>
+<table>
+  <tr>
+    <td><img src="/futsal1.jpeg" alt="Futsal App 1" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/futsal2.jpeg" alt="Futsal App 2" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/futsal3.jpeg" alt="Futsal App 3" width="200" style="border-radius: 10px;"/></td>
+  </tr>
+</table>
 
 #### 3. **Flats and Hotels Booking App**
 - **Description**: A user-friendly app for finding and booking accommodations.
 - **Technologies**: Kotlin, iOS (Swift), React Native, SQL, Nginx.
 - **Previews**:
 
-  <p align="center">
-    <img src="/flat1.png" width="300" alt="Flats App 1">
-    <img src="/flat2.png" width="300" alt="Flats App 2">
-    <img src="/flat3.png" width="300" alt="Flats App 3">
-    <img src="/flat4.png" width="300" alt="Flats App 4">
-    <img src="/flat5.png" width="300" alt="Flats App 5">
-    <img src="/flat6.png" width="300" alt="Flats App 6">
-    <img src="/flat7.png" width="300" alt="Flats App 7">
-    <img src="/flat8.png" width="300" alt="Flats App 8">
-    <img src="/flat9.png" width="300" alt="Flats App 9">
-  </p>
+<table>
+  <tr>
+    <td><img src="/flat1.png" alt="Flats App 1" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/flat2.png" alt="Flats App 2" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/flat3.png" alt="Flats App 3" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/flat4.png" alt="Flats App 4" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/flat5.png" alt="Flats App 5" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/flat6.png" alt="Flats App 6" width="200" style="border-radius: 10px;"/></td>
+  </tr>
+  <tr>
+    <td><img src="/flat7.png" alt="Flats App 7" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/flat8.png" alt="Flats App 8" width="200" style="border-radius: 10px;"/></td>
+    <td><img src="/flat9.png" alt="Flats App 9" width="200" style="border-radius: 10px;"/></td>
+  </tr>
+</table>
 
-#### 4. **Flats and Hotels Admin App**
+#### 4. **Apparty Admin App**
+- **Description**: A website to describe and market the Apparty for the Flats and Hotels Booking App.
+- **Technologies**: Streamlit, Firebase, Docker.
+- **Website**: [www.apparty.net](https://www.apparty.net)
+- **Previews**:
+
+<table>
+  <tr>
+    <td><img src="/apparty1.png" alt="Apparty Web 1" width="600" style="border-radius: 30px;"/></td>
+    <td><img src="/apparty2.png" alt="Apparty Web 2" width="600" style="border-radius: 30px;"/></td>
+    <td><img src="/apparty3.png" alt="Apparty Web 3" width="600" style="border-radius: 30px;"/></td>
+    <td><img src="/apparty4.png" alt="Apparty Web 4" width="600" style="border-radius: 30px;"/></td>
+  </tr>
+</table>
+
+#### 5. **Admin Management App**
 - **Description**: A user-friendly app for managing ads on the Flats and Hotels Booking App.
 - **Technologies**: Streamlit, Firebase, Docker.
 - **Previews**:
 
-  <p align="center">
-    <img src="/admin1.png" width="300" alt="Admin App 1">
-    <img src="/admin2.png" width="300" alt="Admin App 2">
-    <img src="/admin3.png" width="300" alt="Admin App 3">
-    <img src="/admin4.png" width="300" alt="Admin App 4">
-    <img src="/admin5.png" width="300" alt="Admin App 5">
-  </p>
+<table>
+  <tr>
+    <td><img src="/admin1.png" alt="Admin App 1" width="600" style="border-radius: 30px;"/></td>
+    <td><img src="/admin2.png" alt="Admin App 2" width="600" style="border-radius: 30px;"/></td>
+    <td><img src="/admin3.png" alt="Admin App 3" width="600" style="border-radius: 30px;"/></td>
+    <td><img src="/admin4.png" alt="Admin App 4" width="600" style="border-radius: 30px;"/></td>
+    <td><img src="/admin5.png" alt="Admin App 5" width="600" style="border-radius: 30px;"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats
 
-### Overall Stats
+### Overall Stats & Profile Details
 
-<p align="center">
-  <a href="https://github.com/cheikhmc">
-    <img src="https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&show_icons=true&theme=radical" alt="Cheikh's GitHub Stats" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&show_icons=true&theme=radical" alt="Cheikh's GitHub Stats" width="500"/></td>
+    <td><img src="https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/0-profile-details.svg" alt="Profile Details" width="500"/></td>
+  </tr>
+</table>
 
-### Streak and Summary
+### Productive Time, Top Languages & Top Languages Pie Chart
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=cheikhmc&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/0-profile-details.svg" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/4-productive-time.svg" alt="Productive Time" />
-</p>
-
-### Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&langs_count=18&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie" alt="Top Languages Pie Chart" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/cheikhmc/github-profile-summary-cards-example/master/profile-summary-card-output/omni/4-productive-time.svg" alt="Productive Time" width="250"/></td>
+    <td><img src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&langs_count=18&theme=radical" alt="Top Languages" width="250"/></td>
+    <td><img src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&theme=radical&layout=pie" alt="Top Languages Pie Chart" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
