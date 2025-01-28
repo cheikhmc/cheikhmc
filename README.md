@@ -15,11 +15,7 @@
 ## 📖 Table of Contents
 - [🚀 My Projects](#-my-projects)
   - [📱 Mobile Applications](#-mobile-applications)
-    - [1. Ride Sharing App](#1-ride-sharing-app)
-    - [2. Futsal Booking App](#2-futsal-booking-app)
-    - [3. Flats and Hotels Booking App](#3-flats-and-hotels-booking-app)
-    - [4. Apparty Web App](#4-apparty-web-app)
-    - [5. Admin Management App](#5-admin-management-app)
+  - [💻 Open Source Projects](#-open-source-projects)
 - [📈 GitHub Stats](#-github-stats)
 - [🛠️ Skills and Expertise](#️-skills-and-expertise)
 - [🌟 About Me](#-about-me)
@@ -28,6 +24,8 @@
 ---
 
 ## 🚀 My Projects
+
+Here are some of the projects I have worked on. Due to confidentiality agreements, only selected projects are showcased, and some details are omitted.
 
 ### 📱 Mobile Applications
 
@@ -147,6 +145,25 @@
   |:-----------------------------:|:-----------------------------:|:-----------------------------:|
   | ![Admin App 4](/admin4.png) | ![Admin App 5](/admin5.png) |                                 |
 
+### 💻 Open Source Projects
+
+#### **HrFlow Connectors**
+- **Description**: "HrFlow-Connectors is an open-source project developed by HrFlow.ai to democratize Talent Data integration within the HR Tech landscape, enabling developers to create and contribute connectors effortlessly, synchronize data across tools, and leverage AI solutions for processing talent data."
+- **Technologies**: 
+  ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)
+  ![Pydantic](https://img.shields.io/badge/Pydantic-FF5A00?style=for-the-badge&logo=pydantic&logoColor=white)
+- **Repository**: [hrflow-connectors](https://github.com/Riminder/hrflow-connectors)
+
+### Quantum Computing Library* (Private)*
+- **Description**: "A quantum computing library designed for simulating ground state energies, leveraging powerful tools like PySCF, QLM, Qiskit, and more to facilitate accurate and efficient quantum simulations."
+- **Technologies**: 
+  ![PySCF](https://img.shields.io/badge/PySCF-000000?style=for-the-badge&logo=python&logoColor=white)
+  ![Qiskit](https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&logo=qiskit&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![QLM](https://img.shields.io/badge/QLM-000000?style=for-the-badge&logo=quantum&logoColor=white)
+  ![SciPy](https://img.shields.io/badge/SciPy-2A4F7C?style=for-the-badge&logo=scipy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ---
 
 ## 📈 GitHub Stats
@@ -238,4 +255,9 @@ When I'm not coding, you'll find me:
   </a>
 </p>
 
+---
 
+### Notes:
+- **Confidentiality**: This `README.md` showcases only a selection of my projects to respect confidentiality agreements and protect sensitive information.
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on any of these projects!
