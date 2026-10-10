@@ -15,8 +15,8 @@ Trained in mathematics and engineering at CentraleSupélec and Sorbonne Universi
 ## GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cheikhmc&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&hide=prs,issues,contribs" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheikhmc&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=php" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-opal-ten-79.vercel.app/api?username=cheikhmc&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-opal-ten-79.vercel.app/api/top-langs/?username=cheikhmc&layout=compact&hide_border=true&theme=transparent&langs_count=6&count_private=true" alt="Top languages"/>
 </p>
 
 Open to collaboration — feel free to reach out.
